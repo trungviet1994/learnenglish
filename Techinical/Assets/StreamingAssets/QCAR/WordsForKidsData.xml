@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="T02_D" size="568.000000 450.000000" />
+    <ImageTarget name="T02_O" size="568.000000 450.000000" />
+    <ImageTarget name="T02_Z" size="568.000000 449.000000" />
+    <ImageTarget name="T02_Y" size="568.000000 449.000000" />
+    <ImageTarget name="T02_X" size="568.000000 450.000000" />
+    <ImageTarget name="T02_W" size="568.000000 450.000000" />
+    <ImageTarget name="T02_V" size="568.000000 450.000000" />
+    <ImageTarget name="T02_U" size="568.000000 450.000000" />
+    <ImageTarget name="T02_T" size="568.000000 450.000000" />
+    <ImageTarget name="T02_S" size="568.000000 450.000000" />
+    <ImageTarget name="T02_R" size="568.000000 450.000000" />
+    <ImageTarget name="T02_Q" size="568.000000 450.000000" />
+    <ImageTarget name="T02_P" size="568.000000 450.000000" />
+    <ImageTarget name="T02_N" size="568.000000 450.000000" />
+    <ImageTarget name="T02_M" size="568.000000 450.000000" />
+    <ImageTarget name="T02_L" size="568.000000 450.000000" />
+    <ImageTarget name="T02_K" size="568.000000 450.000000" />
+    <ImageTarget name="T02_J" size="568.000000 450.000000" />
+    <ImageTarget name="T02_I" size="568.000000 450.000000" />
+    <ImageTarget name="T02_H" size="568.000000 450.000000" />
+    <ImageTarget name="T02_G" size="568.000000 450.000000" />
+    <ImageTarget name="T02_F" size="568.000000 450.000000" />
+    <ImageTarget name="T02_E" size="568.000000 450.000000" />
+    <ImageTarget name="T02_C" size="568.000000 450.000000" />
+    <ImageTarget name="T02_B" size="568.000000 450.000000" />
+    <ImageTarget name="T02_A" size="568.000000 450.000000" />
+    <ImageTarget name="T01_Z" size="568.000000 450.000000" />
+    <ImageTarget name="T01_Y" size="568.000000 450.000000" />
+    <ImageTarget name="T01_X" size="568.000000 450.000000" />
+    <ImageTarget name="T01_W" size="568.000000 450.000000" />
+    <ImageTarget name="T01_V" size="568.000000 450.000000" />
+    <ImageTarget name="T01_U" size="568.000000 450.000000" />
+    <ImageTarget name="T01_T" size="568.000000 450.000000" />
+    <ImageTarget name="T01_S" size="568.000000 450.000000" />
+    <ImageTarget name="T01_R" size="568.000000 450.000000" />
+    <ImageTarget name="T01_Q" size="568.000000 450.000000" />
+    <ImageTarget name="T01_P" size="568.000000 450.000000" />
+    <ImageTarget name="T01_O" size="568.000000 450.000000" />
+    <ImageTarget name="T01_N" size="568.000000 450.000000" />
+    <ImageTarget name="T01_M" size="568.000000 450.000000" />
+    <ImageTarget name="T01_L" size="568.000000 449.000000" />
+    <ImageTarget name="T01_K" size="568.000000 449.000000" />
+    <ImageTarget name="T01_J" size="568.000000 449.000000" />
+    <ImageTarget name="T01_I" size="568.000000 449.000000" />
+    <ImageTarget name="T01_H" size="568.000000 449.000000" />
+    <ImageTarget name="T01_G" size="568.000000 449.000000" />
+    <ImageTarget name="T01_F" size="568.000000 450.000000" />
+    <ImageTarget name="T01_E" size="568.000000 450.000000" />
+    <ImageTarget name="T01_D" size="568.000000 450.000000" />
+    <ImageTarget name="T01_C" size="568.000000 450.000000" />
+    <ImageTarget name="T01_B" size="568.000000 450.000000" />
+    <ImageTarget name="T01_A" size="568.000000 450.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="B_A2" size="640.000000 480.000000" />
+    <ImageTarget name="B_Z" size="640.000000 480.000000" />
+    <ImageTarget name="B_Y" size="640.000000 480.000000" />
+    <ImageTarget name="B_X" size="640.000000 480.000000" />
+    <ImageTarget name="B_W" size="640.000000 480.000000" />
+    <ImageTarget name="B_V" size="640.000000 480.000000" />
+    <ImageTarget name="B_U" size="640.000000 480.000000" />
+    <ImageTarget name="B_T" size="640.000000 480.000000" />
+    <ImageTarget name="B_S" size="640.000000 480.000000" />
+    <ImageTarget name="B_R" size="640.000000 480.000000" />
+    <ImageTarget name="B_Q" size="640.000000 480.000000" />
+    <ImageTarget name="B_P" size="640.000000 480.000000" />
+    <ImageTarget name="B_O" size="640.000000 480.000000" />
+    <ImageTarget name="B_N" size="640.000000 480.000000" />
+    <ImageTarget name="B_M" size="640.000000 480.000000" />
+    <ImageTarget name="B_L" size="640.000000 480.000000" />
+    <ImageTarget name="B_K" size="640.000000 480.000000" />
+    <ImageTarget name="B_J" size="640.000000 480.000000" />
+    <ImageTarget name="B_I" size="640.000000 480.000000" />
+    <ImageTarget name="B_H" size="640.000000 480.000000" />
+    <ImageTarget name="B_G" size="640.000000 480.000000" />
+    <ImageTarget name="B_F" size="640.000000 480.000000" />
+    <ImageTarget name="B_E" size="640.000000 480.000000" />
+    <ImageTarget name="B_D" size="640.000000 480.000000" />
+    <ImageTarget name="B_C" size="640.000000 480.000000" />
+    <ImageTarget name="B_B" size="640.000000 480.000000" />
+    <ImageTarget name="B_A" size="640.000000 480.000000" />
+  </Tracking>
+</QCARConfig>

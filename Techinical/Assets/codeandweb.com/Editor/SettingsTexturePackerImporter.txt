@@ -1,0 +1,212 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Resources/Image/Cate/category_packer1.tpsheet
+- Assets/Resources/Image/MainImage/packer1.tpsheet
+- Assets/Resources/Image/MainImage/packer10.tpsheet
+- Assets/Resources/Image/MainImage/packer11.tpsheet
+- Assets/Resources/Image/MainImage/packer12.tpsheet
+- Assets/Resources/Image/MainImage/packer13.tpsheet
+- Assets/Resources/Image/MainImage/packer14.tpsheet
+- Assets/Resources/Image/MainImage/packer15.tpsheet
+- Assets/Resources/Image/MainImage/packer16.tpsheet
+- Assets/Resources/Image/MainImage/packer18.tpsheet
+- Assets/Resources/Image/MainImage/packer19.tpsheet
+- Assets/Resources/Image/MainImage/packer2.tpsheet
+- Assets/Resources/Image/MainImage/packer20.tpsheet
+- Assets/Resources/Image/MainImage/packer21.tpsheet
+- Assets/Resources/Image/MainImage/packer22.tpsheet
+- Assets/Resources/Image/MainImage/packer23.tpsheet
+- Assets/Resources/Image/MainImage/packer24.tpsheet
+- Assets/Resources/Image/MainImage/packer25.tpsheet
+- Assets/Resources/Image/MainImage/packer26.tpsheet
+- Assets/Resources/Image/MainImage/packer27.tpsheet
+- Assets/Resources/Image/MainImage/packer28.tpsheet
+- Assets/Resources/Image/MainImage/packer29.tpsheet
+- Assets/Resources/Image/MainImage/packer3.tpsheet
+- Assets/Resources/Image/MainImage/packer30.tpsheet
+- Assets/Resources/Image/MainImage/packer31.tpsheet
+- Assets/Resources/Image/MainImage/packer32.tpsheet
+- Assets/Resources/Image/MainImage/packer33.tpsheet
+- Assets/Resources/Image/MainImage/packer34.tpsheet
+- Assets/Resources/Image/MainImage/packer4.tpsheet
+- Assets/Resources/Image/MainImage/packer5.tpsheet
+- Assets/Resources/Image/MainImage/packer6.tpsheet
+- Assets/Resources/Image/MainImage/packer7.tpsheet
+- Assets/Resources/Image/MainImage/packer8.tpsheet
+- Assets/Resources/Image/MainImage/packer9.tpsheet
+- Assets/Resources/Image/Words/packer_0.tpsheet
+- Assets/Resources/Image/Words/packer_1.tpsheet
+- Assets/Resources/Image/Words/packer_10.tpsheet
+- Assets/Resources/Image/Words/packer_11.tpsheet
+- Assets/Resources/Image/Words/packer_12.tpsheet
+- Assets/Resources/Image/Words/packer_13.tpsheet
+- Assets/Resources/Image/Words/packer_14.tpsheet
+- Assets/Resources/Image/Words/packer_15.tpsheet
+- Assets/Resources/Image/Words/packer_16.tpsheet
+- Assets/Resources/Image/Words/packer_17.tpsheet
+- Assets/Resources/Image/Words/packer_18.tpsheet
+- Assets/Resources/Image/Words/packer_19.tpsheet
+- Assets/Resources/Image/Words/packer_2.tpsheet
+- Assets/Resources/Image/Words/packer_20.tpsheet
+- Assets/Resources/Image/Words/packer_21.tpsheet
+- Assets/Resources/Image/Words/packer_22.tpsheet
+- Assets/Resources/Image/Words/packer_23.tpsheet
+- Assets/Resources/Image/Words/packer_24.tpsheet
+- Assets/Resources/Image/Words/packer_25.tpsheet
+- Assets/Resources/Image/Words/packer_26.tpsheet
+- Assets/Resources/Image/Words/packer_27.tpsheet
+- Assets/Resources/Image/Words/packer_28.tpsheet
+- Assets/Resources/Image/Words/packer_29.tpsheet
+- Assets/Resources/Image/Words/packer_3.tpsheet
+- Assets/Resources/Image/Words/packer_30.tpsheet
+- Assets/Resources/Image/Words/packer_31.tpsheet
+- Assets/Resources/Image/Words/packer_32.tpsheet
+- Assets/Resources/Image/Words/packer_33.tpsheet
+- Assets/Resources/Image/Words/packer_4.tpsheet
+- Assets/Resources/Image/Words/packer_5.tpsheet
+- Assets/Resources/Image/Words/packer_6.tpsheet
+- Assets/Resources/Image/Words/packer_7.tpsheet
+- Assets/Resources/Image/Words/packer_8.tpsheet
+- Assets/Resources/Image/Words/packer_9.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Resources/Image/Cate/category_packer1.png
+- Assets/Resources/Image/MainImage/packer1.png
+- Assets/Resources/Image/MainImage/packer10.png
+- Assets/Resources/Image/MainImage/packer11.png
+- Assets/Resources/Image/MainImage/packer12.png
+- Assets/Resources/Image/MainImage/packer13.png
+- Assets/Resources/Image/MainImage/packer14.png
+- Assets/Resources/Image/MainImage/packer15.png
+- Assets/Resources/Image/MainImage/packer16.png
+- Assets/Resources/Image/MainImage/packer18.png
+- Assets/Resources/Image/MainImage/packer19.png
+- Assets/Resources/Image/MainImage/packer2.png
+- Assets/Resources/Image/MainImage/packer20.png
+- Assets/Resources/Image/MainImage/packer21.png
+- Assets/Resources/Image/MainImage/packer22.png
+- Assets/Resources/Image/MainImage/packer23.png
+- Assets/Resources/Image/MainImage/packer24.png
+- Assets/Resources/Image/MainImage/packer25.png
+- Assets/Resources/Image/MainImage/packer26.png
+- Assets/Resources/Image/MainImage/packer27.png
+- Assets/Resources/Image/MainImage/packer28.png
+- Assets/Resources/Image/MainImage/packer29.png
+- Assets/Resources/Image/MainImage/packer3.png
+- Assets/Resources/Image/MainImage/packer30.png
+- Assets/Resources/Image/MainImage/packer31.png
+- Assets/Resources/Image/MainImage/packer32.png
+- Assets/Resources/Image/MainImage/packer33.png
+- Assets/Resources/Image/MainImage/packer34.png
+- Assets/Resources/Image/MainImage/packer4.png
+- Assets/Resources/Image/MainImage/packer5.png
+- Assets/Resources/Image/MainImage/packer6.png
+- Assets/Resources/Image/MainImage/packer7.png
+- Assets/Resources/Image/MainImage/packer8.png
+- Assets/Resources/Image/MainImage/packer9.png
+- Assets/Resources/Image/Words/packer_0.png
+- Assets/Resources/Image/Words/packer_1.png
+- Assets/Resources/Image/Words/packer_10.png
+- Assets/Resources/Image/Words/packer_11.png
+- Assets/Resources/Image/Words/packer_12.png
+- Assets/Resources/Image/Words/packer_13.png
+- Assets/Resources/Image/Words/packer_14.png
+- Assets/Resources/Image/Words/packer_15.png
+- Assets/Resources/Image/Words/packer_16.png
+- Assets/Resources/Image/Words/packer_17.png
+- Assets/Resources/Image/Words/packer_18.png
+- Assets/Resources/Image/Words/packer_19.png
+- Assets/Resources/Image/Words/packer_2.png
+- Assets/Resources/Image/Words/packer_20.png
+- Assets/Resources/Image/Words/packer_21.png
+- Assets/Resources/Image/Words/packer_22.png
+- Assets/Resources/Image/Words/packer_23.png
+- Assets/Resources/Image/Words/packer_24.png
+- Assets/Resources/Image/Words/packer_25.png
+- Assets/Resources/Image/Words/packer_26.png
+- Assets/Resources/Image/Words/packer_27.png
+- Assets/Resources/Image/Words/packer_28.png
+- Assets/Resources/Image/Words/packer_29.png
+- Assets/Resources/Image/Words/packer_3.png
+- Assets/Resources/Image/Words/packer_30.png
+- Assets/Resources/Image/Words/packer_31.png
+- Assets/Resources/Image/Words/packer_32.png
+- Assets/Resources/Image/Words/packer_33.png
+- Assets/Resources/Image/Words/packer_4.png
+- Assets/Resources/Image/Words/packer_5.png
+- Assets/Resources/Image/Words/packer_6.png
+- Assets/Resources/Image/Words/packer_7.png
+- Assets/Resources/Image/Words/packer_8.png
+- Assets/Resources/Image/Words/packer_9.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
